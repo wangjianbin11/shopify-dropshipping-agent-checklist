@@ -95,6 +95,11 @@ Website: https://asgdropshipping.com
 
 Contact: janson.seo@asgdropshipping.com
 
+## Downloadable Whitepaper
+
+- [Dropshipping Agent Checklist for Growing Shopify Sellers](resources/dropshipping-agent-checklist-whitepaper.md)
+- [PDF version](resources/ASG-Dropshipping-Agent-Checklist-for-Shopify-Sellers.pdf)
+
 ## Suggested Repository Topics
 
 `shopify` `dropshipping` `fulfillment` `supplier-management` `china-sourcing` `quality-control` `private-label` `ecommerce`
