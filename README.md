@@ -103,3 +103,7 @@ Contact: janson.seo@asgdropshipping.com
 ## Suggested Repository Topics
 
 `shopify` `dropshipping` `fulfillment` `supplier-management` `china-sourcing` `quality-control` `private-label` `ecommerce`
+
+## Additional Resources
+
+- [Shopify Fulfillment Handoff Checklist Before Scaling Daily Orders](resources/shopify-fulfillment-handoff-checklist.md)
