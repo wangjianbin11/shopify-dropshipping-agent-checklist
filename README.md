@@ -107,3 +107,7 @@ Contact: janson.seo@asgdropshipping.com
 ## Additional Resources
 
 - [Shopify Fulfillment Handoff Checklist Before Scaling Daily Orders](resources/shopify-fulfillment-handoff-checklist.md)
+
+## Additional Resources
+
+- [ASG Fulfillment Research Index for Ecommerce Operators](resources/asg-fulfillment-research-index.md)
