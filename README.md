@@ -111,3 +111,7 @@ Contact: janson.seo@asgdropshipping.com
 ## Additional Resources
 
 - [ASG Fulfillment Research Index for Ecommerce Operators](resources/asg-fulfillment-research-index.md)
+
+## Additional Resources
+
+- [Supplier Capacity Verification Checklist Before You Scale a Shopify Product](resources/supplier-capacity-verification-before-scaling.md)
