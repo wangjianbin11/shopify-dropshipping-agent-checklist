@@ -115,3 +115,4 @@ Contact: janson.seo@asgdropshipping.com
 ## Additional Resources
 
 - [Supplier Capacity Verification Checklist Before You Scale a Shopify Product](resources/supplier-capacity-verification-before-scaling.md)
+- [Fulfillment Pilot Scorecard Before Switching Dropshipping Agents](resources/fulfillment-pilot-scorecard-before-switching-agents.md)
