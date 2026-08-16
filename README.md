@@ -117,3 +117,4 @@ Contact: janson.seo@asgdropshipping.com
 - [Supplier Capacity Verification Checklist Before You Scale a Shopify Product](resources/supplier-capacity-verification-before-scaling.md)
 - [Fulfillment Pilot Scorecard Before Switching Dropshipping Agents](resources/fulfillment-pilot-scorecard-before-switching-agents.md)
 - [TikTok Shop and Shopify Fulfillment Readiness Checklist for an Unexpected Demand Spike](resources/tiktok-shop-viral-demand-fulfillment-readiness.md)
+- [Ecommerce Returns Root-Cause Location Audit](resources/ecommerce-returns-root-cause-location-audit.md)
