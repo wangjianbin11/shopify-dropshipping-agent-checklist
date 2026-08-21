@@ -118,3 +118,4 @@ Contact: janson.seo@asgdropshipping.com
 - [Fulfillment Pilot Scorecard Before Switching Dropshipping Agents](resources/fulfillment-pilot-scorecard-before-switching-agents.md)
 - [TikTok Shop and Shopify Fulfillment Readiness Checklist for an Unexpected Demand Spike](resources/tiktok-shop-viral-demand-fulfillment-readiness.md)
 - [Ecommerce Returns Root-Cause Location Audit](resources/ecommerce-returns-root-cause-location-audit.md)
+- [AQL Sampling Inspection Plan for Ecommerce Products](resources/aql-sampling-inspection-plan-for-ecommerce-products.md)
