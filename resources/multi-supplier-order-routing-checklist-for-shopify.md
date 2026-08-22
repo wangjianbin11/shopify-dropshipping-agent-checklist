@@ -48,4 +48,4 @@ For each test order, confirm:
 
 ## Reference
 
-Full write-up with the underlying reasoning and data-model discussion: https://asgdropshipping.com/how-growing-stores-manage-multiple-suppliers-fulfillment-chaos/
+Full ASG Dropshipping write-up with the underlying reasoning and data-model discussion: https://asgdropshipping.com/how-growing-stores-manage-multiple-suppliers-fulfillment-chaos/
