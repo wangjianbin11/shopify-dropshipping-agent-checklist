@@ -62,8 +62,10 @@ The purpose is not to produce a percentage that looks precise. It is to identify
 - Preference returns and policy decisions may have no preventable upstream defect.
 - Adapt evidence requirements to the product, market, route, and return policy.
 
-## Supporting Guide
+## Related Frameworks
 
-For the complete location model and examples, read [Where Returns Actually Start: A Location Model for Ecommerce Return Causes](https://asgdropshipping.com/returns-are-a-fulfillment-problem-not-only-a-customer-service-problem/).
+For an evidence-led cross-functional framework that separates root cause, resolution quality, and evidence confidence, read [Why Ecommerce Returns Happen: A Cross-Functional Root-Cause Framework](https://asgdropshipping.com/why-ecommerce-returns-happen-root-cause-framework/).
+
+For the complementary location model and examples, read [Where Returns Actually Start: A Location Model for Ecommerce Return Causes](https://asgdropshipping.com/returns-are-a-fulfillment-problem-not-only-a-customer-service-problem/).
 
 Prepared by ASG Dropshipping as a practical resource for Shopify and ecommerce operations teams.
