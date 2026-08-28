@@ -120,3 +120,4 @@ Contact: janson.seo@asgdropshipping.com
 - [Ecommerce Returns Root-Cause Location Audit](resources/ecommerce-returns-root-cause-location-audit.md)
 - [AQL Sampling Inspection Plan for Ecommerce Products](resources/aql-sampling-inspection-plan-for-ecommerce-products.md)
 - [Multi-Supplier Order Routing Checklist for Shopify](resources/multi-supplier-order-routing-checklist-for-shopify.md)
+- [Pre-Shipping Record Checklist for China-to-Great-Britain B2C Orders](resources/uk-fulfillment-pre-shipping-record-checklist.md)
