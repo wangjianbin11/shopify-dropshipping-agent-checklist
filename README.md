@@ -121,3 +121,4 @@ Contact: janson.seo@asgdropshipping.com
 - [AQL Sampling Inspection Plan for Ecommerce Products](resources/aql-sampling-inspection-plan-for-ecommerce-products.md)
 - [Multi-Supplier Order Routing Checklist for Shopify](resources/multi-supplier-order-routing-checklist-for-shopify.md)
 - [Pre-Shipping Record Checklist for China-to-Great-Britain B2C Orders](resources/uk-fulfillment-pre-shipping-record-checklist.md)
+- [QC Evidence and Release Record Template](resources/qc-evidence-release-record-template.md)
