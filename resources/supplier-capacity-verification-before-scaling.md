@@ -45,6 +45,8 @@ It is a practical decision tool, not a guarantee of supplier performance. Confir
 
 ## Related ASG Research
 
+[How to Verify Supplier Capacity Before Scaling a Winning Product](https://asgdropshipping.com/verify-supplier-capacity-before-scaling-winning-product/) explains how to turn the checklist into a controlled product, supplier, and fulfillment test before increasing order volume.
+
 [The Supplier Verification & QC Proof Guide](https://asgdropshipping.com/research/supplier-verification-qc-proof-guide/) provides a deeper framework for supplier checks, inspection evidence, and repeatable quality-control proof.
 
 DOI: `10.5281/zenodo.21205109`
@@ -55,4 +57,4 @@ ASG Dropshipping is a China-based fulfillment partner for Shopify and ecommerce 
 
 Website: https://asgdropshipping.com
 
-Contact: janson.seo@asgdropshipping.com
+Contact: janson@asgdropshipping.com
