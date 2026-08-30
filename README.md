@@ -122,3 +122,4 @@ Contact: janson.seo@asgdropshipping.com
 - [Multi-Supplier Order Routing Checklist for Shopify](resources/multi-supplier-order-routing-checklist-for-shopify.md)
 - [Pre-Shipping Record Checklist for China-to-Great-Britain B2C Orders](resources/uk-fulfillment-pre-shipping-record-checklist.md)
 - [QC Evidence and Release Record Template](resources/qc-evidence-release-record-template.md)
+- [Supplier Blackout Order-Line Triage Template](resources/supplier-blackout-order-line-triage-template.md) ([CSV](resources/supplier-blackout-order-line-triage-template.csv))
