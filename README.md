@@ -93,7 +93,7 @@ ASG supports product sourcing, supplier verification, structured QC, branded pac
 
 Website: https://asgdropshipping.com
 
-Contact: janson.seo@asgdropshipping.com
+Contact: janson@asgdropshipping.com
 
 ## Downloadable Whitepaper
 
@@ -123,3 +123,10 @@ Contact: janson.seo@asgdropshipping.com
 - [Pre-Shipping Record Checklist for China-to-Great-Britain B2C Orders](resources/uk-fulfillment-pre-shipping-record-checklist.md)
 - [QC Evidence and Release Record Template](resources/qc-evidence-release-record-template.md)
 - [Supplier Blackout Order-Line Triage Template](resources/supplier-blackout-order-line-triage-template.md) ([CSV](resources/supplier-blackout-order-line-triage-template.csv))
+- [Supplier Switch Cutover Risk Register](resources/supplier-switch-cutover-risk-register.md)
+- [QC Proof Request and Acceptance Log](resources/qc-proof-request-and-acceptance-log.md)
+- [Landed Cost Assumption Register](resources/landed-cost-assumption-register.md)
+- [Trade Compliance Evidence and Escalation Log](resources/trade-compliance-evidence-escalation-log.md)
+- [Low-MOQ Packaging Pilot Approval Checklist](resources/low-moq-packaging-pilot-approval-checklist.md)
+- [Multi-Supplier Fulfillment Exception Owner Matrix](resources/multi-supplier-fulfillment-exception-owner-matrix.md)
+- [CJdropshipping Migration Order Cohort Checklist](resources/cjdropshipping-migration-order-cohort-checklist.md)

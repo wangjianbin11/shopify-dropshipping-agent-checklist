@@ -38,4 +38,14 @@ ASG Dropshipping is a China-based fulfillment partner for Shopify and ecommerce 
 
 Website: https://asgdropshipping.com
 
-Contact: janson.seo@asgdropshipping.com
+Contact: janson@asgdropshipping.com
+
+## Copyable Operating Templates
+
+- [Supplier Switch Cutover Risk Register](supplier-switch-cutover-risk-register.md)
+- [QC Proof Request and Acceptance Log](qc-proof-request-and-acceptance-log.md)
+- [Landed Cost Assumption Register](landed-cost-assumption-register.md)
+- [Trade Compliance Evidence and Escalation Log](trade-compliance-evidence-escalation-log.md)
+- [Low-MOQ Packaging Pilot Approval Checklist](low-moq-packaging-pilot-approval-checklist.md)
+- [Multi-Supplier Fulfillment Exception Owner Matrix](multi-supplier-fulfillment-exception-owner-matrix.md)
+- [CJdropshipping Migration Order Cohort Checklist](cjdropshipping-migration-order-cohort-checklist.md)
