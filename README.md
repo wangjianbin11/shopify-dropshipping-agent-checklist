@@ -130,3 +130,4 @@ Contact: janson@asgdropshipping.com
 - [Low-MOQ Packaging Pilot Approval Checklist](resources/low-moq-packaging-pilot-approval-checklist.md)
 - [Multi-Supplier Fulfillment Exception Owner Matrix](resources/multi-supplier-fulfillment-exception-owner-matrix.md)
 - [CJdropshipping Migration Order Cohort Checklist](resources/cjdropshipping-migration-order-cohort-checklist.md)
+- [Shopify International Shipping Zone Audit Checklist](resources/shopify-international-shipping-zone-audit-checklist.md)
