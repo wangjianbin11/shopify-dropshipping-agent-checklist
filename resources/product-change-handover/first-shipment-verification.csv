@@ -1,0 +1,1 @@
+check_id,map_id,order_ref,shipment_ref,shipped_batch_ref,expected_version_id,observed_version_id,check_result,evidence_ref,checked_date
