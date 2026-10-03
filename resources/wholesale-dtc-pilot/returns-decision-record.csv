@@ -1,0 +1,1 @@
+return_id,channel,order_ref,map_id,return_flow,base_units_affected,refund_decision,refund_basis,refund_decided_at,refund_owner_role,item_received,received_at,inspection_result,inspected_at,inspection_owner_role,disposition,restocked_base_units,stock_written_back,stock_writeback_ref,evidence_ref,time_zone
